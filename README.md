@@ -18,7 +18,6 @@
 
 - 🔭 I'm currently working on **Working at a major internet company in China**
 - 🌱 I'm currently learning **AI agent development, large model development**
-- 📝 I regularly write articles on **<https://blog.csdn.net/pedestrian_h>**
 
 <h3 align="left">Links:</h3>
 <p align="left">
@@ -42,9 +41,3 @@
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,postman,figma,matlab" alt="others" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enjoykanyu&show_icons=true&locale=en&layout=compact" alt="enjoykanyu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enjoykanyu&show_icons=true&locale=en" alt="enjoykanyu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enjoykanyu&" alt="enjoykanyu" /></p>
