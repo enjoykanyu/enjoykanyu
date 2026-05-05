@@ -1,14 +1,25 @@
-# Hi 👋, I'm kanyu
-
-### A continuously exploring software developer
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=a855f7&center=true&pause=100000&lines=Hi+%F0%9F%91%8B%2C+I'm+kanyu" alt="Hi" />
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=18&color=a855f7&center=true&vCenter=true&width=780&pause=100000&lines=A+continuously+exploring+software+developer" alt="Current Role" />
+  </a>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave">
+    <strong>Always exploring any interesting agent & AI technologies.</strong>
+  </p>
+  <p>
+    <code>🌱 AI Agent Developer</code>
+    <code>📍 Across China / Remote.</code>
+  </p>
+</div>
 
 - 🔭 I'm currently working on **Working at a major internet company in China**
-
 - 🌱 I'm currently learning **AI agent development, large model development**
-
-- 📫 How to reach me **whofloat@tutamail.com**
-
-- 📝 I regularly write articles on **[https://blog.csdn.net/pedestrian_h](https://blog.csdn.net/pedestrian_h)**
+- 📫 How to reach me **<whofloat@tutamail.com>**
+- 📝 I regularly write articles on **<https://blog.csdn.net/pedestrian_h>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +27,7 @@
 <a href="https://leetcode.com/enjoykanyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enjoykanyu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+**internship opportunities**<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
