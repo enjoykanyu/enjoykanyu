@@ -31,11 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,html,css" alt="languages" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,gin,nextjs,react,vue,django,flask" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js" alt="languages" />
   <br>
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,linux,redis,mysql,rabbitmq,grafana" alt="tools" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,postman,figma,matlab" alt="others" />
 </p>
